@@ -1,4 +1,4 @@
-# **Systemy operacyjne** <br/> **Zestaw 2**
+# **Systemy operacyjne** <br/> **Zestaw 5**
 <br>
 <div style="text-align: right"><b>Przemysław Pawlik</b></div>
 
